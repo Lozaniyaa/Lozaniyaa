@@ -73,7 +73,7 @@
 
 ## Connect with me  
 <div align="center">
-  <a href="https://vk.com/zavtra.b.sharagy" target="_blank" style="display:flex;" >
+  <a href="https://vk.com/zavtra.b.sharagy" target="_blank" style="display:flex; vertical-allign:center; justify-content:center;" >
     <img src="https://cdn-icons-png.flaticon.com/128/2504/2504953.png" alt="Vk" style="width:30px; height:30px; display:block" />
     <span style="font-size:17px; display:block;">ВКонтакте</span>
     
