@@ -74,7 +74,7 @@
 ## Connect with me  
 <div align="center">
 <a href="https://vk.com/zavtra.b.sharagy" target="_blank">
-<img src=packages/icons/src/svg/20/auction_circle_fill_purple_20.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://cdn-icons-png.flaticon.com/128/2504/2504953.png?&style=for-the-badge&logo=github&logoColor=white alt=Vk style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/Lozaniya" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
