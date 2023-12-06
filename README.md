@@ -73,7 +73,7 @@
 
 ## Connect with me  
 <div align="center">
-  <a href="https://vk.com/zavtra.b.sharagy" target="_blank" style="width:30px;height:30px;" >
+  <a href="https://vk.com/zavtra.b.sharagy" target="_blank" style="width:30px; height:30px; display:block;" >
     <img src=https://cdn-icons-png.flaticon.com/128/2504/2504953.png?&style=for-the-badge&logo=github&logoColor=white alt=Vk style="margin-bottom: 30px;" />
   </a>
 <a href="https://t.me/zavtra_v_sharagy" target="_blank">
