@@ -74,10 +74,10 @@
 ## Connect with me  
 <div align="center">
 <a href="https://vk.com/zavtra.b.sharagy" target="_blank">
-<img src=https://cdn-icons-png.flaticon.com/128/2504/2504953.png?&style=for-the-badge&logo=github&logoColor=white alt=Vk style="margin-bottom: 5px;" />
+<img src=https://cdn-icons-png.flaticon.com/128/2504/2504953.png?&style=for-the-badge&logo=github&logoColor=white alt=Vk style="margin-bottom: 30px;" />
 </a>
-<a href="https://linkedin.com/in/Lozaniya" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<a href="https://t.me/zavtra_v_sharagy" target="_blank">
+<img src=https://cdn-icons-png.flaticon.com/128/2111/2111646.png?&style=for-the-badge&logo=linkedin&logoColor=white alt=Teleram style="margin-bottom: 30px;" />
 </a>  
 </div>  
   
