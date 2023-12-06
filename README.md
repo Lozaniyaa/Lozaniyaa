@@ -75,6 +75,8 @@
 <div align="center">
   <a href="https://vk.com/zavtra.b.sharagy" target="_blank" style="display:block;" >
     <img src="https://cdn-icons-png.flaticon.com/128/2504/2504953.png" alt="Vk" style="width:30px; height:30px; display:block;" />
+    <span style="font-size:17px;">ВКонтакте</span>
+    
   </a>
 <a href="https://t.me/zavtra_v_sharagy" target="_blank">
 <img src=https://cdn-icons-png.flaticon.com/128/2111/2111646.png?&style=for-the-badge&logo=linkedin&logoColor=white alt=Teleram style="margin-bottom: 30px;" />
