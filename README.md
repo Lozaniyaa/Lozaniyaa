@@ -76,7 +76,7 @@
   <a href="https://vk.com/zavtra.b.sharagy" target="_blank" style="" >
     <img src="https://sun9-32.userapi.com/impf/H8VSN-PTp14FL0WbI6qhGxCM83261Z1xjC_18g/Zw4to4S7ygg.jpg?size=398x117&quality=96&sign=70a7f62f6b66fda8c840dfa58a062e57&type=album" alt="Vk" style="width:auto; height:50px; display:block" /> 
   </a>
-  <a href="https://vk.com/zavtra.b.sharagy" target="_blank" style="" >
+  <a href="https://t.me/zavtra_v_sharagy" target="_blank" style="" >
     <img src="https://sun9-40.userapi.com/impf/7rKy3HG-x3gbDBh0pizGe-9bvj3QQNwwlHcVPg/x4NjqfBiL5s.jpg?size=398x117&quality=96&sign=074d58d6df6af697549fb53f203859cb&type=album" alt="TG" style="width:auto; height:50px; display:block" />
   </a>
 </div>  
