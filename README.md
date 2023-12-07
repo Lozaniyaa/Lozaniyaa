@@ -73,9 +73,9 @@
 
 ## Connect with me  
 <div align="center">
-  <a href="https://vk.com/zavtra.b.sharagy" target="_blank" style="display:flex; vertical-allign:center; justify-content:center; background:RED;" >
-    <img src="https://cdn-icons-png.flaticon.com/128/2504/2504953.png" alt="Vk" style="width:30px; height:30px; display:block" />
-    <span style="font-size:17px; display:block;">ВКонтакте</span>
+  <a href="https://vk.com/zavtra.b.sharagy" target="_blank" style="" >
+    <img src="https://sun9-32.userapi.com/impf/H8VSN-PTp14FL0WbI6qhGxCM83261Z1xjC_18g/Zw4to4S7ygg.jpg?size=398x117&quality=96&sign=70a7f62f6b66fda8c840dfa58a062e57&type=album" alt="Vk" style="width:auto; height:30px; display:block" />
+    
     
   </a>
 <a href="https://t.me/zavtra_v_sharagy" target="_blank">
