@@ -85,13 +85,13 @@
 <br/>  
 
 
-## Github Stats  
+<!--## Github Stats-->
   
 
 <br/>  
 
 
-## Recent Blog Posts  
+<!--## Recent Blog Posts  -->
 <!-- BLOG-POST-LIST:START -->  
 ## Посмотрим на пингвинчика 
 <!-- BLOG-POST-LIST:END -->  
